@@ -1,3 +1,6 @@
+# Changes to this file are not auto-propagated to the downstream build automation. We need to make the changes manually in the midstream repo located here:
+# https://gitlab.cee.redhat.com/cpaas-midstream/telco-5g-ran/bare-metal-event-relay/-/blob/rhaos-4.13-rhel-8/distgit/containers/bare-metal-event-relay-bundle/Dockerfile.in
+
 FROM scratch
 
 # Core bundle labels.
